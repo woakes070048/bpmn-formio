@@ -1,0 +1,22 @@
+
+.home {
+  text-align: center;
+}
+
+.home-logo {
+  height: 50px;
+}
+
+.home-header {
+  height: 150px;
+  padding: 20px;
+}
+
+.home-title {
+  font-size: 1.5em;
+}
+
+.home-intro {
+  font-size: large;
+}
+

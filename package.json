@@ -1,0 +1,32 @@
+{
+  "name": "bpmn-formio",
+  "description": "Modeller that integrates BPMN IO and FormIO",
+  "version": "0.0.1",
+  "private": false,
+  "keywords": [
+    "BPMN",
+    "FormIO",
+    "bpmn-js",
+    "formio-js"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "contributors": [
+    "amin@digitalpatterns.io",
+    "mark@digitalpatterns.io"
+  ],
+  "bugs": "https://github.com/DigitalPatterns/bpmn-formio/issues",
+  "homepage": "https://github.com/DigitalPatterns/bpmn-formio/wiki",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {
+  }
+}
